@@ -1,0 +1,12 @@
+{
+    "mockups": [
+        {
+            "name": "iP13Black",
+            "displayName": "iPhone 13 Black"
+        },
+        {
+            "name": "iP14Pro",
+            "displayName": "iPhone 14 Pro"
+        }
+    ]
+}
