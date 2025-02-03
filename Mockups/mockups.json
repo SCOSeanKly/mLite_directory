@@ -11,6 +11,10 @@
          {
             "name": "iP16_White",
             "displayName": "iP16 White"
+        },
+        {
+            "name": "AirPodsProMax",
+            "displayName": "AirPods Pro Max"
         }
         
     ]
