@@ -3,6 +3,14 @@
         {
             "name": "CustomOrange",
             "displayName": "Custom Orange"
+        },
+         {
+            "name": "iP16_Black",
+            "displayName": "iP16 Black"
+        },
+         {
+            "name": "iP16_White",
+            "displayName": "iP16 White"
         }
         
     ]
