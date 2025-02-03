@@ -15,7 +15,11 @@
         {
             "name": "AirPodsProMax",
             "displayName": "AirPods Pro Max"
-        }
+        },
+         {
+            "name": "iP15PM_Front",
+            "displayName": "iP15PM Front"
+        },
         
     ]
 }
