@@ -1,25 +1,65 @@
 {
     "mockups": [
-        {
-            "name": "CustomOrange",
-            "displayName": "Custom Orange"
-        },
-         {
-            "name": "iP16_Black",
-            "displayName": "iP16 Black"
-        },
-         {
-            "name": "iP16_White",
-            "displayName": "iP16 White"
-        },
-        {
-            "name": "AirPodsProMax",
-            "displayName": "AirPods Pro Max"
-        },
-         {
-            "name": "iP15PM_Front",
-            "displayName": "iP15PM Front"
-        },
-        
+        { "name": "8T", "displayName": "8T" },
+        { "name": "AirPodsmax", "displayName": "AirPods Max" },
+        { "name": "BlackiP16PM", "displayName": "Black iP16PM" },
+        { "name": "Block", "displayName": "Block" },
+        { "name": "blueUp", "displayName": "Blue Up" },
+        { "name": "BlurryDesk", "displayName": "Blurry Desk" },
+        { "name": "Clay", "displayName": "Clay" },
+        { "name": "DarkDesk", "displayName": "Dark Desk" },
+        { "name": "Grey", "displayName": "Grey" },
+        { "name": "Grille2", "displayName": "Grille 2" },
+        { "name": "Handy", "displayName": "Handy" },
+        { "name": "Hhh", "displayName": "Hhh" },
+        { "name": "iMac", "displayName": "iMac" },
+        { "name": "iP16Titanium", "displayName": "iP16 Titanium" },
+        { "name": "iPhoneMockup", "displayName": "iPhone Mockup" },
+        { "name": "iPhoneMockup2", "displayName": "iPhone Mockup 2" },
+        { "name": "iPhoneMockup3", "displayName": "iPhone Mockup 3" },
+        { "name": "iPhoneMockup6", "displayName": "iPhone Mockup 6" },
+        { "name": "iPhoneX", "displayName": "iPhone X" },
+        { "name": "IsoBench", "displayName": "Iso Bench" },
+        { "name": "lDesk", "displayName": "L Desk" },
+        { "name": "MacBook", "displayName": "MacBook" },
+        { "name": "Mesh", "displayName": "Mesh" },
+        { "name": "Nothing", "displayName": "Nothing" },
+        { "name": "Orange", "displayName": "Orange" },
+        { "name": "puck", "displayName": "Puck" },
+        { "name": "Rightalong", "displayName": "Right Along" },
+        { "name": "Shadow1", "displayName": "Shadow 1" },
+        { "name": "SilveriP16PM", "displayName": "Silver iP16PM" },
+        { "name": "Streaks", "displayName": "Streaks" },
+        { "name": "SWA_17", "displayName": "SWA 17" },
+        { "name": "SWA_aluminumbrushed", "displayName": "SWA Aluminum Brushed" },
+        { "name": "SWA_bigtransparent", "displayName": "SWA Big Transparent" },
+        { "name": "SWA_bigwhitebump", "displayName": "SWA Big White Bump" },
+        { "name": "SWA_blackstock", "displayName": "SWA Black Stock" },
+        { "name": "SWA_camelleather2", "displayName": "SWA Camel Leather 2" },
+        { "name": "SWA_cmf", "displayName": "SWA CMF" },
+        { "name": "SWA_darkminimal", "displayName": "SWA Dark Minimal" },
+        { "name": "SWA_desk3", "displayName": "SWA Desk 3" },
+        { "name": "SWA_desktop1", "displayName": "SWA Desktop 1" },
+        { "name": "SWA_dockcharging", "displayName": "SWA Dock Charging" },
+        { "name": "SWA_extraflatfloating", "displayName": "SWA Extra Flat Floating" },
+        { "name": "SWA_flatgrey", "displayName": "SWA Flat Grey" },
+        { "name": "SWA_freshlight", "displayName": "SWA Fresh Light" },
+        { "name": "SWA_ip17cartoonesque", "displayName": "SWA iP17 Cartoonesque" },
+        { "name": "SWA_leathercamel", "displayName": "SWA Leather Camel" },
+        { "name": "SWA_Macbookpro", "displayName": "SWA MacBook Pro" },
+        { "name": "SWA_Old", "displayName": "SWA Old" },
+        { "name": "SWA_orangeblack", "displayName": "SWA Orange Black" },
+        { "name": "SWA_plasticbump", "displayName": "SWA Plastic Bump" },
+        { "name": "SWA_playmobil", "displayName": "SWA Playmobil" },
+        { "name": "SWA_simplealu3D", "displayName": "SWA Simple Alu 3D" },
+        { "name": "SWA_simpledesk3D", "displayName": "SWA Simple Desk 3D" },
+        { "name": "SWA_simpletransparent", "displayName": "SWA Simple Transparent" },
+        { "name": "SWA_tech1", "displayName": "SWA Tech 1" },
+        { "name": "SWA_tech2", "displayName": "SWA Tech 2" },
+        { "name": "SWA_TT1white", "displayName": "SWA TT1 White" },
+        { "name": "SWA_whitedesk", "displayName": "SWA White Desk" },
+        { "name": "SWA_whitetransparent", "displayName": "SWA White Transparent" },
+        { "name": "trueBlue", "displayName": "True Blue" },
+        { "name": "WCharge", "displayName": "WCharge" }
     ]
 }
