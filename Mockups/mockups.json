@@ -60,6 +60,8 @@
         { "name": "SWA_whitedesk", "displayName": "SWA White Desk" },
         { "name": "SWA_whitetransparent", "displayName": "SWA White Transparent" },
         { "name": "trueBlue", "displayName": "True Blue" },
-        { "name": "WCharge", "displayName": "WCharge" }
+        { "name": "WCharge", "displayName": "WCharge" },
+         { "name": "DeskShad", "displayName": "DeskShad" },
+          { "name": "DeskShad2", "displayName": "DeskShad2" }
     ]
 }
