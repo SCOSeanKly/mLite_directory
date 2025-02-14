@@ -67,6 +67,7 @@
            { "name": "SimpleReflect", "displayName": "SimpleReflect" },
             { "name": "Swa alu slide", "displayName": "Swa alu slide" },
              { "name": "Industry", "displayName": "Industry" },
-              { "name": "Pixel9Pro", "displayName": "Pixel9Pro" }
+              { "name": "Pixel9Pro", "displayName": "Pixel9Pro" },
+               { "name": "Swa cartoon1", "displayName": "Swa cartoon1" }
     ]
 }
