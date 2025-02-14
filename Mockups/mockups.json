@@ -62,6 +62,11 @@
         { "name": "trueBlue", "displayName": "True Blue" },
         { "name": "WCharge", "displayName": "WCharge" },
          { "name": "DeskShad", "displayName": "DeskShad" },
-          { "name": "DeskShad2", "displayName": "DeskShad2" }
+          { "name": "DeskShad2", "displayName": "DeskShad2" },
+
+           { "name": "SimpleReflect", "displayName": "SimpleReflect" },
+            { "name": "Swa alu slide", "displayName": "Swa alu slide" },
+             { "name": "Industry", "displayName": "Industry" },
+              { "name": "Pixel9Pro", "displayName": "Pixel9Pro" }
     ]
 }
