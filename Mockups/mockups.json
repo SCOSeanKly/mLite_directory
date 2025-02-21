@@ -295,6 +295,46 @@
         {
             "name": "lightDesk",
             "displayName": "lightDesk"
+        },
+        {
+            "name": "iPAir",
+            "displayName": "iPAir"
+        },
+        {
+            "name": "SWA black red",
+            "displayName": "SWA black red"
+        },
+        {
+            "name": "iPAir2",
+            "displayName": "iPAir2"
+        },
+        {
+            "name": "SWA 16E",
+            "displayName": "SWA 16E"
+        },
+        {
+            "name": "SWA 17 twice",
+            "displayName": "SWA 17 twice"
+        },
+        {
+            "name": "SWA nothing 3",
+            "displayName": "SWA nothing 3"
+        },
+        {
+            "name": "SWA P10 concept",
+            "displayName": "SWA P10 concept"
+        },
+        {
+            "name": "SWA large white",
+            "displayName": "SWA large white"
+        },
+        {
+            "name": "SWA 16E slide",
+            "displayName": "SWA 16E slide"
+        },
+        {
+            "name": "SWA creamy",
+            "displayName": "SWA creamy"
         }
     ]
 }
