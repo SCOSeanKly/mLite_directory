@@ -1,460 +1,456 @@
 {
-  "mockups" : [
-    {
-      "displayName" : "8T",
-      "name" : "8T"
-    },
-    {
-      "displayName" : "AirPods Max",
-      "name" : "AirPodsmax"
-    },
-    {
-      "displayName" : "Angles",
-      "name" : "Angles"
-    },
-    {
-      "displayName" : "Black iP16PM",
-      "name" : "BlackiP16PM"
-    },
-    {
-      "displayName" : "Block",
-      "name" : "Block"
-    },
-    {
-      "displayName" : "Blurry Desk",
-      "name" : "BlurryDesk"
-    },
-    {
-      "displayName" : "Clay",
-      "name" : "Clay"
-    },
-    {
-      "displayName" : "ClayLight",
-      "name" : "ClayLight"
-    },
-    {
-      "displayName" : "Dark Desk",
-      "name" : "DarkDesk"
-    },
-    {
-      "displayName" : "DeskShad",
-      "name" : "DeskShad"
-    },
-    {
-      "displayName" : "DeskShad2",
-      "name" : "DeskShad2"
-    },
-    {
-      "displayName" : "Grey",
-      "name" : "Grey"
-    },
-    {
-      "displayName" : "Grille 2",
-      "name" : "Grille2"
-    },
-    {
-      "displayName" : "Handy",
-      "name" : "Handy"
-    },
-    {
-      "displayName" : "HandyDark",
-      "name" : "HandyDark"
-    },
-    {
-      "displayName" : "Hhh",
-      "name" : "Hhh"
-    },
-    {
-      "displayName" : "IPXNOT",
-      "name" : "IPXNOT"
-    },
-    {
-      "displayName" : "Industry",
-      "name" : "Industry"
-    },
-    {
-      "displayName" : "Iso Bench",
-      "name" : "IsoBench"
-    },
-    {
-      "displayName" : "MacBook",
-      "name" : "MacBook"
-    },
-    {
-      "displayName" : "Mesh",
-      "name" : "Mesh"
-    },
-    {
-      "displayName" : "Nothing",
-      "name" : "Nothing"
-    },
-    {
-      "displayName" : "Orange",
-      "name" : "Orange"
-    },
-    {
-      "displayName" : "Pixel9Pro",
-      "name" : "Pixel9Pro"
-    },
-    {
-      "displayName" : "Right Along",
-      "name" : "Rightalong"
-    },
-    {
-      "displayName" : "SWA 16E",
-      "name" : "SWA 16E"
-    },
-    {
-      "displayName" : "SWA 16E slide",
-      "name" : "SWA 16E slide"
-    },
-    {
-      "displayName" : "SWA 17 air",
-      "name" : "SWA 17 air"
-    },
-    {
-      "displayName" : "SWA 17 twice",
-      "name" : "SWA 17 twice"
-    },
-    {
-      "displayName" : "SWA Classic Chrome",
-      "name" : "SWA Classic Chrome"
-    },
-    {
-      "displayName" : "SWA P10 concept",
-      "name" : "SWA P10 concept"
-    },
-    {
-      "displayName" : "SWA black front space",
-      "name" : "SWA black front space"
-    },
-    {
-      "displayName" : "SWA black red",
-      "name" : "SWA black red"
-    },
-    {
-      "displayName" : "SWA cards",
-      "name" : "SWA cards"
-    },
-    {
-      "displayName" : "SWA classical dark",
-      "name" : "SWA classical dark"
-    },
-    {
-      "displayName" : "SWA creamy",
-      "name" : "SWA creamy"
-    },
-    {
-      "displayName" : "SWA dark candle",
-      "name" : "SWA dark candle"
-    },
-    {
-      "displayName" : "SWA dark floating ",
-      "name" : "SWA dark floating "
-    },
-    {
-      "displayName" : "SWA double dark",
-      "name" : "SWA double dark"
-    },
-    {
-      "displayName" : "SWA floating white",
-      "name" : "SWA floating white"
-    },
-    {
-      "displayName" : "SWA grasshopper ",
-      "name" : "SWA grasshopper "
-    },
-    {
-      "displayName" : "SWA greeny ",
-      "name" : "SWA greeny "
-    },
-    {
-      "displayName" : "SWA lamp",
-      "name" : "SWA lamp"
-    },
-    {
-      "displayName" : "SWA large white",
-      "name" : "SWA large white"
-    },
-    {
-      "displayName" : "SWA mini white",
-      "name" : "SWA mini white"
-    },
-    {
-      "displayName" : "SWA nothing 3",
-      "name" : "SWA nothing 3"
-    },
-    {
-      "displayName" : "SWA square",
-      "name" : "SWA square"
-    },
-    {
-      "displayName" : "SWA tech geek",
-      "name" : "SWA tech geek"
-    },
-    {
-      "displayName" : "SWA white on rectangle ",
-      "name" : "SWA white on rectangle "
-    },
-    {
-      "displayName" : "SWA white portrait ",
-      "name" : "SWA white portrait "
-    },
-    {
-      "displayName" : "SWA wood charging",
-      "name" : "SWA wood charging"
-    },
-    {
-      "displayName" : "SWA woody charging ",
-      "name" : "SWA woody charging "
-    },
-    {
-      "displayName" : "SWA yellow bump transparent ",
-      "name" : "SWA yellow bump transparent "
-    },
-    {
-      "displayName" : "SWA 17",
-      "name" : "SWA_17"
-    },
-    {
-      "displayName" : "SWA MacBook Pro",
-      "name" : "SWA_Macbookpro"
-    },
-    {
-      "displayName" : "SWA Old",
-      "name" : "SWA_Old"
-    },
-    {
-      "displayName" : "SWA TT1 White",
-      "name" : "SWA_TT1white"
-    },
-    {
-      "displayName" : "SWA Aluminum Brushed",
-      "name" : "SWA_aluminumbrushed"
-    },
-    {
-      "displayName" : "SWA Big Transparent",
-      "name" : "SWA_bigtransparent"
-    },
-    {
-      "displayName" : "SWA Big White Bump",
-      "name" : "SWA_bigwhitebump"
-    },
-    {
-      "displayName" : "SWA Black Stock",
-      "name" : "SWA_blackstock"
-    },
-    {
-      "displayName" : "SWA Camel Leather 2",
-      "name" : "SWA_camelleather2"
-    },
-    {
-      "displayName" : "SWA CMF",
-      "name" : "SWA_cmf"
-    },
-    {
-      "displayName" : "SWA Dark Minimal",
-      "name" : "SWA_darkminimal"
-    },
-    {
-      "displayName" : "SWA Desk 3",
-      "name" : "SWA_desk3"
-    },
-    {
-      "displayName" : "SWA Desktop 1",
-      "name" : "SWA_desktop1"
-    },
-    {
-      "displayName" : "SWA Dock Charging",
-      "name" : "SWA_dockcharging"
-    },
-    {
-      "displayName" : "SWA Extra Flat Floating",
-      "name" : "SWA_extraflatfloating"
-    },
-    {
-      "displayName" : "SWA Flat Grey",
-      "name" : "SWA_flatgrey"
-    },
-    {
-      "displayName" : "SWA Fresh Light",
-      "name" : "SWA_freshlight"
-    },
-    {
-      "displayName" : "SWA iP17 Cartoonesque",
-      "name" : "SWA_ip17cartoonesque"
-    },
-    {
-      "displayName" : "SWA Leather Camel",
-      "name" : "SWA_leathercamel"
-    },
-    {
-      "displayName" : "SWA Orange Black",
-      "name" : "SWA_orangeblack"
-    },
-    {
-      "displayName" : "SWA Plastic Bump",
-      "name" : "SWA_plasticbump"
-    },
-    {
-      "displayName" : "SWA Playmobil",
-      "name" : "SWA_playmobil"
-    },
-    {
-      "displayName" : "SWA Simple Alu 3D",
-      "name" : "SWA_simplealu3D"
-    },
-    {
-      "displayName" : "SWA Simple Desk 3D",
-      "name" : "SWA_simpledesk3D"
-    },
-    {
-      "displayName" : "SWA Simple Transparent",
-      "name" : "SWA_simpletransparent"
-    },
-    {
-      "displayName" : "SWA Tech 1",
-      "name" : "SWA_tech1"
-    },
-    {
-      "displayName" : "SWA Tech 2",
-      "name" : "SWA_tech2"
-    },
-    {
-      "displayName" : "SWA White Desk",
-      "name" : "SWA_whitedesk"
-    },
-    {
-      "displayName" : "SWA White Transparent",
-      "name" : "SWA_whitetransparent"
-    },
-    {
-      "displayName" : "Shadow 1",
-      "name" : "Shadow1"
-    },
-    {
-      "displayName" : "Silver iP16PM",
-      "name" : "SilveriP16PM"
-    },
-    {
-      "displayName" : "SimpleReflect",
-      "name" : "SimpleReflect"
-    },
-    {
-      "displayName" : "Streaks",
-      "name" : "Streaks"
-    },
-    {
-      "displayName" : "Swa alu slide",
-      "name" : "Swa alu slide"
-    },
-    {
-      "displayName" : "Swa black and white slide",
-      "name" : "Swa black and white slide"
-    },
-    {
-      "displayName" : "Swa cartoon1",
-      "name" : "Swa cartoon1"
-    },
-    {
-      "displayName" : "Tabletop",
-      "name" : "Tabletop"
-    },
-    {
-      "displayName" : "Travel",
-      "name" : "Travel"
-    },
-    {
-      "displayName" : "WCharge",
-      "name" : "WCharge"
-    },
-    {
-      "displayName" : "White corner",
-      "name" : "White corner"
-    },
-    {
-      "displayName" : "Woddywoodwood",
-      "name" : "Woddywoodwood"
-    },
-    {
-      "displayName" : "bambooStand",
-      "name" : "bambooStand"
-    },
-    {
-      "displayName" : "Blue Up",
-      "name" : "blueUp"
-    },
-    {
-      "displayName" : "dark marble",
-      "name" : "dark marble"
-    },
-    {
-      "displayName" : "gimmeSomeWood",
-      "name" : "gimmeSomeWood"
-    },
-    {
-      "displayName" : "iMac",
-      "name" : "iMac"
-    },
-    {
-      "displayName" : "iP16 Titanium",
-      "name" : "iP16Titanium"
-    },
-    {
-      "displayName" : "iPAir",
-      "name" : "iPAir"
-    },
-    {
-      "displayName" : "iPAir2",
-      "name" : "iPAir2"
-    },
-    {
-      "displayName" : "iPhone Mockup",
-      "name" : "iPhoneMockup"
-    },
-    {
-      "displayName" : "iPhone Mockup 2",
-      "name" : "iPhoneMockup2"
-    },
-    {
-      "displayName" : "iPhone Mockup 3",
-      "name" : "iPhoneMockup3"
-    },
-    {
-      "displayName" : "iPhone Mockup 6",
-      "name" : "iPhoneMockup6"
-    },
-    {
-      "displayName" : "iPhone X",
-      "name" : "iPhoneX"
-    },
-    {
-      "displayName" : "L Desk",
-      "name" : "lDesk"
-    },
-    {
-      "displayName" : "lightDesk",
-      "name" : "lightDesk"
-    },
-    {
-      "displayName" : "onMacBook",
-      "name" : "onMacBook"
-    },
-    {
-      "displayName" : "Puck",
-      "name" : "puck"
-    },
-    {
-      "displayName" : "sTitanium",
-      "name" : "sTitanium"
-    },
-    {
-      "displayName" : "True Blue",
-      "name" : "trueBlue"
-    },
-    {
-      "displayName" : "whiteDeskske",
-      "name" : "whiteDeskske"
-    }
-  ]
+    "mockups": [
+        {
+            "name": "8T",
+            "displayName": "8T"
+        },
+        {
+            "name": "AirPodsmax",
+            "displayName": "AirPods Max"
+        },
+        {
+            "name": "BlackiP16PM",
+            "displayName": "Black iP16PM"
+        },
+        {
+            "name": "Block",
+            "displayName": "Block"
+        },
+        {
+            "name": "blueUp",
+            "displayName": "Blue Up"
+        },
+        {
+            "name": "BlurryDesk",
+            "displayName": "Blurry Desk"
+        },
+        {
+            "name": "Clay",
+            "displayName": "Clay"
+        },
+        {
+            "name": "DarkDesk",
+            "displayName": "Dark Desk"
+        },
+        {
+            "name": "Grey",
+            "displayName": "Grey"
+        },
+        {
+            "name": "Grille2",
+            "displayName": "Grille 2"
+        },
+        {
+            "name": "Handy",
+            "displayName": "Handy"
+        },
+        {
+            "name": "Hhh",
+            "displayName": "Hhh"
+        },
+        {
+            "name": "iMac",
+            "displayName": "iMac"
+        },
+        {
+            "name": "iP16Titanium",
+            "displayName": "iP16 Titanium"
+        },
+        {
+            "name": "iPhoneMockup",
+            "displayName": "iPhone Mockup"
+        },
+        {
+            "name": "iPhoneMockup2",
+            "displayName": "iPhone Mockup 2"
+        },
+        {
+            "name": "iPhoneMockup3",
+            "displayName": "iPhone Mockup 3"
+        },
+        {
+            "name": "iPhoneMockup6",
+            "displayName": "iPhone Mockup 6"
+        },
+        {
+            "name": "iPhoneX",
+            "displayName": "iPhone X"
+        },
+        {
+            "name": "IsoBench",
+            "displayName": "Iso Bench"
+        },
+        {
+            "name": "lDesk",
+            "displayName": "L Desk"
+        },
+        {
+            "name": "MacBook",
+            "displayName": "MacBook"
+        },
+        {
+            "name": "Mesh",
+            "displayName": "Mesh"
+        },
+        {
+            "name": "Nothing",
+            "displayName": "Nothing"
+        },
+        {
+            "name": "Orange",
+            "displayName": "Orange"
+        },
+        {
+            "name": "puck",
+            "displayName": "Puck"
+        },
+        {
+            "name": "Rightalong",
+            "displayName": "Right Along"
+        },
+        {
+            "name": "Shadow1",
+            "displayName": "Shadow 1"
+        },
+        {
+            "name": "SilveriP16PM",
+            "displayName": "Silver iP16PM"
+        },
+        {
+            "name": "Streaks",
+            "displayName": "Streaks"
+        },
+        {
+            "name": "SWA_17",
+            "displayName": "SWA 17"
+        },
+        {
+            "name": "SWA_aluminumbrushed",
+            "displayName": "SWA Aluminum Brushed"
+        },
+        {
+            "name": "SWA_bigtransparent",
+            "displayName": "SWA Big Transparent"
+        },
+        {
+            "name": "SWA_bigwhitebump",
+            "displayName": "SWA Big White Bump"
+        },
+        {
+            "name": "SWA_blackstock",
+            "displayName": "SWA Black Stock"
+        },
+        {
+            "name": "SWA_camelleather2",
+            "displayName": "SWA Camel Leather 2"
+        },
+        {
+            "name": "SWA_cmf",
+            "displayName": "SWA CMF"
+        },
+        {
+            "name": "SWA_darkminimal",
+            "displayName": "SWA Dark Minimal"
+        },
+        {
+            "name": "SWA_desk3",
+            "displayName": "SWA Desk 3"
+        },
+        {
+            "name": "SWA_desktop1",
+            "displayName": "SWA Desktop 1"
+        },
+        {
+            "name": "SWA_dockcharging",
+            "displayName": "SWA Dock Charging"
+        },
+        {
+            "name": "SWA_extraflatfloating",
+            "displayName": "SWA Extra Flat Floating"
+        },
+        {
+            "name": "SWA_flatgrey",
+            "displayName": "SWA Flat Grey"
+        },
+        {
+            "name": "SWA_freshlight",
+            "displayName": "SWA Fresh Light"
+        },
+        {
+            "name": "SWA_ip17cartoonesque",
+            "displayName": "SWA iP17 Cartoonesque"
+        },
+        {
+            "name": "SWA_leathercamel",
+            "displayName": "SWA Leather Camel"
+        },
+        {
+            "name": "SWA_Macbookpro",
+            "displayName": "SWA MacBook Pro"
+        },
+        {
+            "name": "SWA_Old",
+            "displayName": "SWA Old"
+        },
+        {
+            "name": "SWA_orangeblack",
+            "displayName": "SWA Orange Black"
+        },
+        {
+            "name": "SWA_plasticbump",
+            "displayName": "SWA Plastic Bump"
+        },
+        {
+            "name": "SWA_playmobil",
+            "displayName": "SWA Playmobil"
+        },
+        {
+            "name": "SWA_simplealu3D",
+            "displayName": "SWA Simple Alu 3D"
+        },
+        {
+            "name": "SWA_simpledesk3D",
+            "displayName": "SWA Simple Desk 3D"
+        },
+        {
+            "name": "SWA_simpletransparent",
+            "displayName": "SWA Simple Transparent"
+        },
+        {
+            "name": "SWA_tech1",
+            "displayName": "SWA Tech 1"
+        },
+        {
+            "name": "SWA_tech2",
+            "displayName": "SWA Tech 2"
+        },
+        {
+            "name": "SWA_TT1white",
+            "displayName": "SWA TT1 White"
+        },
+        {
+            "name": "SWA_whitedesk",
+            "displayName": "SWA White Desk"
+        },
+        {
+            "name": "SWA_whitetransparent",
+            "displayName": "SWA White Transparent"
+        },
+        {
+            "name": "trueBlue",
+            "displayName": "True Blue"
+        },
+        {
+            "name": "WCharge",
+            "displayName": "WCharge"
+        },
+        {
+            "name": "DeskShad",
+            "displayName": "DeskShad"
+        },
+        {
+            "name": "DeskShad2",
+            "displayName": "DeskShad2"
+        },
+        {
+            "name": "SimpleReflect",
+            "displayName": "SimpleReflect"
+        },
+        {
+            "name": "Swa alu slide",
+            "displayName": "Swa alu slide"
+        },
+        {
+            "name": "Industry",
+            "displayName": "Industry"
+        },
+        {
+            "name": "Pixel9Pro",
+            "displayName": "Pixel9Pro"
+        },
+        {
+            "name": "Swa cartoon1",
+            "displayName": "Swa cartoon1"
+        },
+        {
+            "name": "Swa black and white slide",
+            "displayName": "Swa black and white slide"
+        },
+        {
+            "name": "onMacBook",
+            "displayName": "onMacBook"
+        },
+        {
+            "name": "bambooStand",
+            "displayName": "bambooStand"
+        },
+        {
+            "name": "whiteDeskske",
+            "displayName": "whiteDeskske"
+        },
+        {
+            "name": "sTitanium",
+            "displayName": "sTitanium"
+        },
+        {
+            "name": "lightDesk",
+            "displayName": "lightDesk"
+        },
+        {
+            "name": "iPAir",
+            "displayName": "iPAir"
+        },
+        {
+            "name": "SWA black red",
+            "displayName": "SWA black red"
+        },
+        {
+            "name": "iPAir2",
+            "displayName": "iPAir2"
+        },
+        {
+            "name": "SWA 16E",
+            "displayName": "SWA 16E"
+        },
+        {
+            "name": "SWA 17 twice",
+            "displayName": "SWA 17 twice"
+        },
+        {
+            "name": "SWA nothing 3",
+            "displayName": "SWA nothing 3"
+        },
+        {
+            "name": "SWA P10 concept",
+            "displayName": "SWA P10 concept"
+        },
+        {
+            "name": "SWA large white",
+            "displayName": "SWA large white"
+        },
+        {
+            "name": "SWA 16E slide",
+            "displayName": "SWA 16E slide"
+        },
+        {
+            "name": "SWA creamy",
+            "displayName": "SWA creamy"
+        },
+        {
+            "name": "Angles",
+            "displayName": "Angles"
+        },
+        {
+            "name": "ClayLight",
+            "displayName": "ClayLight"
+        },
+        {
+            "name": "dark marble",
+            "displayName": "dark marble"
+        },
+        {
+            "name": "gimmeSomeWood",
+            "displayName": "gimmeSomeWood"
+        },
+        {
+            "name": "HandyDark",
+            "displayName": "HandyDark"
+        },
+        {
+            "name": "IPXNOT",
+            "displayName": "IPXNOT"
+        },
+        {
+            "name": "SWA 17 air",
+            "displayName": "SWA 17 air"
+        },
+        {
+            "name": "SWA cards",
+            "displayName": "SWA cards"
+        },
+        {
+            "name": "SWA Classic Chrome",
+            "displayName": "SWA Classic Chrome"
+        },
+        {
+            "name": "SWA classical dark",
+            "displayName": "SWA classical dark"
+        },
+        {
+            "name": "SWA dark candle",
+            "displayName": "SWA dark candle"
+        },
+        {
+            "name": "SWA dark floating ",
+            "displayName": "SWA dark floating "
+        },
+        {
+            "name": "SWA double dark",
+            "displayName": "SWA double dark"
+        },
+        {
+            "name": "SWA floating white",
+            "displayName": "SWA floating white"
+        },
+        {
+            "name": "SWA grasshopper ",
+            "displayName": "SWA grasshopper "
+        },
+        {
+            "name": "SWA lamp",
+            "displayName": "SWA lamp"
+        },
+        {
+            "name": "SWA mini white",
+            "displayName": "SWA mini white"
+        },
+        {
+            "name": "SWA square",
+            "displayName": "SWA square"
+        },
+        {
+            "name": "SWA tech geek",
+            "displayName": "SWA tech geek"
+        },
+        {
+            "name": "SWA white on rectangle ",
+            "displayName": "SWA white on rectangle "
+        },
+        {
+            "name": "SWA white portrait ",
+            "displayName": "SWA white portrait "
+        },
+        {
+            "name": "SWA wood charging",
+            "displayName": "SWA wood charging"
+        },
+        {
+            "name": "SWA woody charging ",
+            "displayName": "SWA woody charging "
+        },
+        {
+            "name": "SWA yellow bump transparent ",
+            "displayName": "SWA yellow bump transparent "
+        },
+        {
+            "name": "Tabletop",
+            "displayName": "Tabletop"
+        },
+        {
+            "name": "Travel",
+            "displayName": "Travel"
+        },
+        {
+            "name": "White corner",
+            "displayName": "White corner"
+        },
+        {
+            "name": "Woddywoodwood",
+            "displayName": "Woddywoodwood"
+        },
+         {
+            "name": "SWA black front space",
+            "displayName": "SWA black front space"
+        }
+    ]
 }
