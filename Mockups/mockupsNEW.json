@@ -1,0 +1,80 @@
+{
+  "mockups": [
+    {
+      "displayName": "iPhone 15 Pro",
+      "name": "iPhoneX",
+      "creatorId": "creator1"
+    },
+    {
+      "displayName": "MacBook Pro",
+      "name": "MacBook",
+      "creatorId": "creator1"
+    },
+    {
+      "displayName": "AirPods Max",
+      "name": "AirPodsmax",
+      "creatorId": "creator1"
+    },
+    {
+      "displayName": "Dark Minimal",
+      "name": "SWA_darkminimal",
+      "creatorId": "creator2"
+    },
+    {
+      "displayName": "White Desk",
+      "name": "SWA_whitedesk",
+      "creatorId": "creator2"
+    },
+    {
+      "displayName": "Dark Floating",
+      "name": "SWA dark floating ",
+      "creatorId": "creator2"
+    },
+    {
+      "displayName": "Pixel 9 Pro",
+      "name": "Pixel9Pro",
+      "creatorId": "creator3"
+    },
+    {
+      "displayName": "Nothing Phone",
+      "name": "Nothing",
+      "creatorId": "creator3"
+    },
+    {
+      "displayName": "Bamboo Stand",
+      "name": "bambooStand",
+      "creatorId": "creator4"
+    },
+    {
+      "displayName": "Wooden Shadowed",
+      "name": "WoodenShadowed",
+      "creatorId": "creator4"
+    }
+  ],
+  "creators": [
+    {
+      "id": "creator1",
+      "username": "Sean Kelly",
+      "avatarUrl": "https://example.com/avatars/sean.jpg",
+      "socialUrl": "https://twitter.com/seankelly"
+    },
+    {
+      "id": "creator2",
+      "username": "Sarah Williams",
+      "avatarUrl": "https://example.com/avatars/sarah.jpg",
+      "socialUrl": "https://instagram.com/sarahwilliams"
+    },
+    {
+      "id": "creator3",
+      "username": "Mike Chen",
+      "avatarUrl": "https://example.com/avatars/mike.jpg",
+      "socialUrl": "https://dribbble.com/mikechen"
+    },
+    {
+      "id": "creator4",
+      "username": "Lisa Thompson",
+      "avatarUrl": "https://example.com/avatars/lisa.jpg",
+      "socialUrl": "https://behance.net/lisathompson"
+    }
+  ]
+}
