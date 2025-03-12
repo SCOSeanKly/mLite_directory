@@ -479,6 +479,10 @@
     {
       "displayName" : "SWA yellow_back",
       "name" : "SWA yellow_back"
+    },
+    {
+      "displayName" : "Capsule",
+      "name" : "Capsule"
     }
   ]
 }
