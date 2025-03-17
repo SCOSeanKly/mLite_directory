@@ -483,6 +483,10 @@
     {
       "displayName" : "Capsule",
       "name" : "Capsule"
+    },
+    {
+      "displayName" : "Boxed",
+      "name" : "Boxed"
     }
   ]
 }
