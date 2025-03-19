@@ -487,6 +487,10 @@
     {
       "displayName" : "Boxed",
       "name" : "Boxed"
+    },
+    {
+      "displayName" : "iP16e",
+      "name" : "iP16e"
     }
   ]
 }
