@@ -511,6 +511,10 @@
     {
       "displayName" : "Coffee plant",
       "name" : "Coffee plant"
+    },
+    {
+      "displayName" : "Coffee ",
+      "name" : "Coffee "
     }
   ]
 }
