@@ -523,6 +523,10 @@
     {
       "displayName" : "MacBoook",
       "name" : "MacBoook"
+    },
+    {
+      "displayName" : "iPadmLite",
+      "name" : "iPadmLite"
     }
   ]
 }
