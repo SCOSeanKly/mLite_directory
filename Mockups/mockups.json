@@ -519,6 +519,10 @@
     {
       "displayName" : "Apple watch",
       "name" : "Apple watch"
+    },
+    {
+      "displayName" : "MacBoook",
+      "name" : "MacBoook"
     }
   ]
 }
