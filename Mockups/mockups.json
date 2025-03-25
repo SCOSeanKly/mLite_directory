@@ -515,6 +515,10 @@
     {
       "displayName" : "Coffee ",
       "name" : "Coffee "
+    },
+    {
+      "displayName" : "Apple watch",
+      "name" : "Apple watch"
     }
   ]
 }
