@@ -555,6 +555,10 @@
     {
       "displayName" : "SKENeon",
       "name" : "SKENeon"
+    },
+    {
+      "displayName" : "SKEZombie",
+      "name" : "SKEZombie"
     }
   ]
 }
