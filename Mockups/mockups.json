@@ -567,6 +567,10 @@
     {
       "displayName" : "GoldieScene",
       "name" : "GoldieScene"
+    },
+    {
+      "displayName" : "Ripples",
+      "name" : "Ripples"
     }
   ]
 }
