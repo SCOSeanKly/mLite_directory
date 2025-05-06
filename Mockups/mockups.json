@@ -571,6 +571,10 @@
     {
       "displayName" : "Ripples",
       "name" : "Ripples"
+    },
+    {
+      "displayName" : "Store",
+      "name" : "Store"
     }
   ]
 }
